@@ -1,0 +1,2 @@
+This is a sample file for assignment #1 to show that I have added a file
+to the repo.
